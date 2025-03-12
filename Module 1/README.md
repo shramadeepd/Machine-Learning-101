@@ -1,4 +1,3 @@
-Here's a brief explanation of each element:
 
 ### 📘 **Linear Algebra and Statistics Module**
 - **Purpose:** Provides an overview of the learning path, focusing on core mathematical concepts essential for data science, ML, and related fields.
